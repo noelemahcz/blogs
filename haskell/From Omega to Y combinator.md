@@ -86,7 +86,7 @@ yPrintNTimes = y g
 Refer to its definition in λ-calculus:
 
 ``` haskell
-Y = λf. (λx. f (x x)) (λx. f (x x))
+Y = λf. (λx.f (x x)) (λx.f (x x))
 ```
 
 
